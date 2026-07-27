@@ -39,6 +39,35 @@ The diagram below illustrates the relationships between the six tables used in t
 ![Banking ERD](Banking_ERD.png)
 ---
 
+# 📸 Sample Query Results
+
+## Top 10 Customers by Total Balance
+
+![Top Customers](screenshots/Top10Customers.png)
+
+---
+
+## Customer Ranking
+
+![Customer Ranking](screenshots/CustomerRanking.png)
+
+---
+
+## Running Total of Transactions
+
+![Running Total](screenshots/RunningTotal.png)
+
+---
+
+## Branch with the Highest Transaction Value
+
+![Highest Branch](screenshots/HighestBranchTransactions.png)
+
+---
+
+## Month with the Highest Transaction Amount
+
+![Highest Month](screenshots/HighestTransactionMonth.png)
 # Business Questions Answered
 
 1. Top 10 Customers by Total Account Balance
