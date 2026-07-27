@@ -32,6 +32,11 @@ This project showcases skills in database design, SQL querying, business analysi
 | Transactions | Stores deposits and withdrawals. |
 | Loans | Stores customer loan information. |
 
+# Entity Relationship Diagram (ERD)
+
+The diagram below illustrates the relationships between the six tables used in the banking database.
+
+![Banking ERD](Banking_ERD.png)
 ---
 
 # Business Questions Answered
